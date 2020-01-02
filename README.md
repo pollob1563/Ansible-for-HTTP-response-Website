@@ -20,9 +20,7 @@
 <br/>
 
 <b>4xx Client Error</b>
-
 <br />
-
 <i>400 Bad Request</i>
 <br />
 <i>403 Forbidden</i>
