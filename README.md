@@ -32,8 +32,6 @@
 
 <b>5xx Server Error</b>
 <br />
-
-
 <i>500 Internal Server Error</i>
 <br />
 <i>502 Bad Gateway</i>
