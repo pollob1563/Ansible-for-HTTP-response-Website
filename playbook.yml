@@ -1,0 +1,14 @@
+---
+
+- name: Get HTTP Response Code
+  hosts: localhost
+  become: yes
+
+  tasks:
+  - name: Running your py script
+    script: HTTP.py
+    register: a
+
+  - name: Printing
+    debug:
+      msg: '{{a}}'
